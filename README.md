@@ -1,0 +1,18 @@
+## JupyterLab
+This is an interactive computing environment that allows you to work with document and code in a flexible and intuitive way. Its like a digital notebook, I don't see much difference between JupyterLab and Jupyter notebook, hence, JupyterLab is a latest version. We can use it to run programs, visualise data and analyse results - all within your web browser, YOU DO NOT HAVE TO DOWNLOAD THE JUPYTERLAB. This tool supports multiple programming languages and provides tools for editing, debug and sharing your work. 
+
+## Why JupyterLab
+
+- Flexible
+- Interactive
+- Multi-language Support
+- Education and learning
+
+## Get started
+Learn about jupyterlab and how you can use it directly from the web, you can also download it if you want. [Get Started](https://jupyter.org/try-jupyter/lab/)
+
+## Run the following line on your git bash or windows terminal, to be directed to jupyterlab web enviroment
+```bash
+python launch_jupyterlab.py
+  
+
