@@ -17,8 +17,7 @@ Learn about jupyterlab and how you can use it directly from the web, you can als
 ```bash
 git clone https://github.com/topollonaketsana/JupyterLab.git 
 
-``
-
+```
 2. Go to jupyterlab  
 
 ```bash
