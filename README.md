@@ -11,7 +11,16 @@ This is an interactive computing environment that allows you to work with docume
 ## Get started
 Learn about jupyterlab and how you can use it directly from the web, you can also download it if you want. [Get Started](https://jupyter.org/try-jupyter/lab/)
 
-## Run the following line on your git bash or windows terminal, to be directed to jupyterlab web enviroment
+## Run the following Cmmand lines on your git bash or windows terminal, to be directed to jupyterlab web enviroment
+
+1. Save the directory by cloning it
+```bash
+git clone https://github.com/topollonaketsana/JupyterLab.git 
+
+``
+
+2. Go to jupyterlab  
+
 ```bash
 python launch_jupyterlab.py
   
