@@ -14,7 +14,6 @@ Learn about jupyterlab and how you can use it directly from the web, you can als
 ## Run the following Command lines on your git bash or windows terminal, to be directed to jupyterlab web environment
 ## Note the following:
 I advice you use git bash instead of the command prompt, you can download git Bash:
-```bash
 To download Git Bash, click [here](https://gitforwindows.org/)
 
 1. Save the directory by cloning it
