@@ -11,15 +11,20 @@ This is an interactive computing environment that allows you to work with docume
 ## Get started
 Learn about jupyterlab and how you can use it directly from the web, you can also download it if you want. [Get Started](https://jupyter.org/try-jupyter/lab/)
 
-### Run the following Command lines on your git bash or windows terminal, to be directed to jupyterlab web environment
 
 ##
 ## Required packages:
-I advise you to use git bash instead of the command prompt, you can download Git Bash [here](https://git-scm.com/downloads/)
 
+- I advise you to use git bash instead of the command prompt, you can download Git Bash [here](https://git-scm.com/downloads/)
 - Make sure you have Python or Anaconda package
-- Make sure that Python is recognised on your Git Bash
-###
+- Make sure that Python is recognized on your Git Bash check this by typing the following command:
+  ```bash
+  python --version
+  ```
+- You should see the version number of the installed python 
+  
+##
+### Run the following Command lines on your git bash to be directed to jupyterlab web environment
 
 1. Save the directory by cloning it
 ```bash
