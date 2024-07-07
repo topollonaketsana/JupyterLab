@@ -9,7 +9,7 @@ This is an interactive computing environment that allows you to work with docume
 - Education and learning
 
 ## Get started
-Learn about jupyterlab [here](https://jupyter.org/try-jupyter/lab/), and you can also download it if you want, you can download jupyterLab by copying and pasting the following line to your bash or command prompt:
+Learn about jupyterlab [here](https://jupyterlab.readthedocs.io/en/stable/), and you can also download it if you want, you can download jupyterLab by copying and pasting the following line to your bash or command prompt:
 ##
 
 ```bash
