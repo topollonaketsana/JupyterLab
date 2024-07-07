@@ -43,6 +43,6 @@ python launch_jupyterlab.py
 ##
 
 ## Acknowledgments
--- [Jupyter](https://jupyter.org/)
--- [Python Software](https://www.python.org/psf/)
+- [Jupyter](https://jupyter.org/)
+- [Python Software](https://www.python.org/psf/)
 
