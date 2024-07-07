@@ -22,7 +22,7 @@ pip install jupyterlab
 
 - I advise you to use git bash instead of the command prompt, you can download Git Bash [here](https://git-scm.com/downloads/)
 - Make sure you have Python or Anaconda package
-- Make sure that Python is recognized on your Git Bash check this by typing the following command:
+- Make sure that Python is recognized on your Git Bash check this by typing the following command into your git bash:
   
   ```bash
   python --version
