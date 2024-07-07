@@ -28,7 +28,8 @@ Learn about jupyterlab and how you can use it directly from the web, you can als
 
 1. Save the directory by cloning it
 ```bash
-git clone https://github.com/topollonaketsana/JupyterLab.git 
+git clone https://github.com/topollonaketsana/JupyterLab.git
+cd JupyterLab 
 
 ```
 2. Go to jupyterlab  
