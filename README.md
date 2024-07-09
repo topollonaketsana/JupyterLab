@@ -15,6 +15,12 @@ Learn about jupyterlab [here](https://jupyterlab.readthedocs.io/en/stable/), and
 ```bash
 pip install jupyterlab
 ```
+Or similary you can install all dependencies required to run jupyterlab
+
+##
+```bash
+python -m pip install --upgrade pip
+```
 
 ##
 
