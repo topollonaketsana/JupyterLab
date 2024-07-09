@@ -19,7 +19,7 @@ Or similary you can install all dependencies required to run jupyterlab by:
 
 ##
 ```bash
-python -m pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
 ##
