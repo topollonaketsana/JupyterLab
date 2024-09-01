@@ -15,12 +15,6 @@ Learn about jupyterlab [here](https://jupyterlab.readthedocs.io/en/stable/), and
 ```bash
 pip install jupyterlab
 ```
-Or similary you can install all dependencies after git cloning the repository required to run jupyterlab by:
-
-##
-```bash
-pip install -r requirements.txt
-```
 
 ##
 
