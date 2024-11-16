@@ -10,28 +10,23 @@ This is an interactive computing environment that allows you to work with docume
 
 ## Get started
 Learn about jupyterlab [here](https://jupyterlab.readthedocs.io/en/stable/), and you can also download it if you want. To install jupyterLab to your machine (make sure you have ` python 3 ` or download it [here](https://www.python.org/downloads/) before using the following command:
-##
 
-```bash
-pip install jupyterlab
-```
-
-##
-
-## Required packages:
-
-- I advise you to use git bash instead of the command prompt, you can download Git Bash [here](https://git-scm.com/downloads/)
-- Make sure you have Python or Anaconda package or download [here](https://www.python.org/downloads/)
 - Make sure that Python is recognized on your Git Bash check this by typing the following command into your git bash:
   
   ```bash
   python --version
   ```
-- You should see the version number of the installed python 
+- You should see the version number of the installed python
   
 ##
 
-### Run the following Command lines on your git bash to be directed to jupyterlab web environment
+```bash
+pip install jupyterlab
+```
+  
+##
+
+### Run the following Command lines to be directed to jupyterlab web environment
 
 1. Save the directory by cloning it
 ```bash
